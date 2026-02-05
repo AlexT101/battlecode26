@@ -1,7 +1,24 @@
+# Overview
+
+Competed in Battlecode 2026, placing top 6 at US Qualifiers and top 12 at Finals. 
+
+All bot code can be found under `/src`. Battlecode has 4 main tournaments, including two sprint tournaments, the qualifier tournament, and the final tournament. My bots initially had fun food-themed names (I competed as team food), but I renamed the files for clarity.
+
+
+| Name | Description |
+|---|---|
+| rushbot | My first bot. Prioritizes rushing 3 possible starting enemy king starting locations. |
+| sprint1bot | Less aggressive; more focus on collecting cheese and natural exploration. |
+| benchbot | Minor bugfixes, used as a benchmark for all future bots. |
+| sprint2bot |Complete rewrite with cleaner code and a heuristic-based combat system. |
+| usqualsbot | Lots of bug fixes, fine-tuning functionality, and adding new features. |
+| finalsbot | Same as above. |
+
+You can also find a mix of custom and official maps under `/maps`. 
+
 # Battlecode 2026 Scaffold - Java
 
 This is the Battlecode 2026 Java scaffold, containing an `examplefuncsplayer`. Read https://play.battlecode.org/bc26/quick_start !
-
 
 ### Project Structure
 
