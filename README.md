@@ -7,14 +7,15 @@ All bot code can be found under `/src`. Battlecode has 4 main tournaments, inclu
 
 | Name | Description |
 |---|---|
-| rushbot | My first bot. Prioritizes rushing 3 possible starting enemy king starting locations. |
+| examplefuncsplayer | Starter bot provided by the organizers that randomly moves around. |
+| rushbot | My first bot. Prioritizes rushing the 3 possible enemy king starting locations. |
 | sprint1bot | Less aggressive; more focus on collecting cheese and natural exploration. |
-| benchbot | Minor bugfixes, used as a benchmark for all future bots. |
+| benchbot | Minor bugfixes. Used as a benchmark for all future bots. |
 | sprint2bot |Complete rewrite with cleaner code and a heuristic-based combat system. |
-| usqualsbot | Lots of bug fixes, fine-tuning functionality, and adding new features. |
+| usqualsbot | Lots of bug fixes, fine-tuned behaviors, and new features. |
 | finalsbot | Same as above. |
 
-You can also find a mix of custom and official maps under `/maps`. 
+You can find a mix of custom and official maps under `/maps`. 
 
 # Battlecode 2026 Scaffold - Java
 
