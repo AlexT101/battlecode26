@@ -1,8 +1,10 @@
 # Overview
 
-Competed in Battlecode 2026, placing top 6 at US Qualifiers and top 12 at Finals. 
+Competed in MIT Battlecode 2026, placing top 6 at US Qualifiers and top 12 at Finals. 
 
-All bot code can be found under `/src`. Battlecode has 4 main tournaments, including two sprint tournaments, the qualifier tournament, and the final tournament. My bots initially had fun food-themed names (I competed as team food), but I renamed the files for clarity.
+Battlecode is a month-long programming competition where teams iteratively design and develop AI algorithms to control virtual robots in a fast, turn-based strategy game. This year’s theme involved warring rat factions fighting over territory, resources, and survival, all while contending with erratic NPC cats. 
+
+All bot code can be found under `/src`. Battlecode has 4 main tournaments, including 2 sprint tournaments, the qualifier tournament, and the final tournament. My bots initially had fun food-themed names (I competed as team food), but I renamed the files for clarity.
 
 
 | Name | Description |
@@ -10,7 +12,7 @@ All bot code can be found under `/src`. Battlecode has 4 main tournaments, inclu
 | examplefuncsplayer | Starter bot provided by the organizers that randomly moves around. |
 | rushbot | My first bot. Prioritizes rushing the 3 possible enemy king starting locations. |
 | sprint1bot | Less aggressive; more focus on collecting cheese and natural exploration. |
-| benchbot | Minor bugfixes. Used as a benchmark for all future bots. |
+| benchbot | Minor bug fixes. Used as a benchmark for all future bots. |
 | sprint2bot |Complete rewrite with cleaner code and a heuristic-based combat system. |
 | usqualsbot | Lots of bug fixes, fine-tuned behaviors, and new features. |
 | finalsbot | Same as above. |
