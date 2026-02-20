@@ -1,6 +1,6 @@
 # Overview
 
-Competed in MIT Battlecode 2026, placing top 6 at US Qualifiers and top 12 at Finals. 
+Competed in MIT Battlecode 2026, placing top 6 at US Qualifiers and top 12 at Finals. You can find my full postmortem writeup [here](https://www.alext.app/Battlecode_Postmortem_2026.pdf).
 
 Battlecode is a month-long programming competition where teams iteratively design and develop AI algorithms to control virtual robots in a fast, turn-based strategy game. This year’s theme involved warring rat factions fighting over territory, resources, and survival, all while contending with erratic NPC cats. 
 
